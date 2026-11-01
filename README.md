@@ -59,8 +59,8 @@ The Excel dashboard presents:
 The school should strengthen teaching strategies in weaker subject areas, provide targeted academic support to struggling students, and regularly monitor academic progress.
 
 ## Project Deliverables
-![Greenfield School Results Dashboard](dashboard-screenshot.png)
-- ## Dashboard Preview
+Excel workbook containing the cleaned dataset, analysis sheets, rankings and dashboard.
+This README documentation.
 
 
 ## Project Files
@@ -68,6 +68,9 @@ The school should strengthen teaching strategies in weaker subject areas, provid
 Click below to download the complete Excel workbook:
 
 [📊 Download Excel Analysis Workbook](results_esther.xlsx)
+
+[📊 Summary Screenshoot](Dashboard_Screenshoot.png)
+
 
 ## Author
 **Esther Chimgozirim**
